@@ -7,7 +7,7 @@ git push
 
 git clone https://github.com/mahmudulrm/WorkPlace
 git config --global user.email "mahmudulrm@gmail.com"
-git config --global user.email "mahmudulrm"
+git config --global user.name "mahmudulrm"
 git config --global -l
 
 git init 
