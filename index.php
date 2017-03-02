@@ -17,6 +17,7 @@ include 'include/header.php';
 
 <?php
 	require_once('api.php');
+	require_once('api.php');
 ?>
 <script>
 
